@@ -32,7 +32,7 @@ public class Main {
                 System.out.println("Resultat deleniya: " + result4);
                 break;
             default:
-                System.out.println("Oshibka");
+                System.out.println("Oshibka++");
                 return;
 
         }
